@@ -1,4 +1,4 @@
-COVID Slot Booking System
+#COVID Slot Booking System
 
 This is a web application that allows users to book bed slots in hospitals during the COVID-19 pandemic. The application provides real-time data on hospital resources such as ICU beds, HICU beds, ventilator beds, and normal beds, so that users can make informed decisions about where to seek medical care.
 
